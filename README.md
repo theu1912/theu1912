@@ -1,4 +1,4 @@
-### Oi, eu sou o Matheus
+### Meu nome é Matheus
 
 Desenvolvedor em Curitiba, no 4º semestre de Análise e Desenvolvimento de Sistemas na
 Universidade Positivo. Faço sistemas web completos, do front-end ao banco de dados, e gosto de
